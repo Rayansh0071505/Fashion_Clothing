@@ -11,7 +11,7 @@ Here is the sample image
 ![image](https://user-images.githubusercontent.com/98272246/213529559-111c47b9-98db-47a9-a750-f3130e7ae58e.png)
 
 -> Here first we have created a small list so we can index onto our training labels so they're human readable
-<h1> Building a multi-class classification model
+<h1> Building a multi-class classification model</h1>
 
 For our multi-class classification model, we can use a similar architecture to our binary classifiers, however, we're going to have a tweak few things:
 
@@ -32,7 +32,7 @@ We'll also use the validation_data parameter when calling the fit() function. Th
  You can see more about in given notebook
  
  Further on :-
- <h3> For each layer in output its previous layers works as its input as one layer affects the working and flow of another layer
+ <h3> For each layer in output its previous layers works as its input as one layer affects the working and flow of another layer </h3>
    ![image](https://user-images.githubusercontent.com/98272246/213530435-23879b12-4e4c-4f91-8b78-a188b5359a61.png)
 
  
