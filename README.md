@@ -32,7 +32,8 @@ We'll also use the validation_data parameter when calling the fit() function. Th
  You can see more about in given notebook
  
  Further on :-
- <h3> For each layer in output its previous layers works as its input as one layer affects the working and flow of another layer </h3>
- ![image](https://user-images.githubusercontent.com/98272246/213530435-23879b12-4e4c-4f91-8b78-a188b5359a61.png)
+ <h3> For each layer in output its previous layers works as its input as one layer affects the working and flow of another layer </h3> 
+ ![image](https://user-images.githubusercontent.com/98272246/213531115-e0e80a24-abf8-420b-a006-e671af9df6d1.png)
+
 
  
